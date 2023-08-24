@@ -148,3 +148,7 @@
         font-size: smaller;
         
     } 
+    .description {
+        text-align: center;
+        color: white;
+    }
